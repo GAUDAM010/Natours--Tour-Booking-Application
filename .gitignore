@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+config.env
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Parcel
+.cache/
+dist/
+
+# Build output
+public/js/bundle.js
+public/js/bundle.js.map
+
+# Debug
+ndb/
+.ndb/
+
+# Coverage
+coverage/
